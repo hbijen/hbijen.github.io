@@ -1,6 +1,8 @@
 window.onload = () => {
     let places = staticLoadPlaces();
+    alert('places ', places.length)
     renderPlaces(places);
+
 };
 
 function staticLoadPlaces() {
@@ -34,5 +36,6 @@ function renderPlaces(places) {
        });
 
        scene.appendChild(model);
+       alert('add model to scene')
    });
 }
