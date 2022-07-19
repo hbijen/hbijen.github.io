@@ -8,8 +8,8 @@ function staticLoadPlaces() {
        {
            name: 'Tiger',
            location: {
-                lat: 24.817016,
-               lng: 93.928213,
+                lat: 24.817019,
+               lng: 93.928186,
            }
        },
    ];
