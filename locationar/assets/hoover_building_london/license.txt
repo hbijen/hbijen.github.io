@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hoover Building London - Front Facade
+* source:	https://sketchfab.com/3d-models/hoover-building-london-front-facade-5d34ff17c4e14079a433bde079e455de
+* author:	ATD-London (https://sketchfab.com/ATD-London)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hoover Building London - Front Facade" (https://sketchfab.com/3d-models/hoover-building-london-front-facade-5d34ff17c4e14079a433bde079e455de) by ATD-London (https://sketchfab.com/ATD-London) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
